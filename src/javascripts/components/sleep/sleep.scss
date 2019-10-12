@@ -6,4 +6,16 @@
   position: fixed;
   top: 50%;
   left: 50%;
+
+  .fa {
+    display: flex;
+    flex-direction: row;
+    margin: .25em;
+  }
+
+  h4 {
+    position: relative;
+    margin-left: 3em;
+    color: $snow;
+  }
 }

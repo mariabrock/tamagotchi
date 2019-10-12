@@ -5,8 +5,8 @@ const loadEat = () => {
   let fullness = 100;
   let domString = '<h4>Eat</h4>';
   domString += `<p><progress value="${fullness}" max="100" id="eatAmt"></progress></p>`;
-  domString += '<button id="carrot" type="button">Carrot<i class="fas fa-carrot fa-3x"></i></button>';
-  domString += '<button id="cookie" type="button">Cookie<i class="fas fa-cookie fa-3x"></i></button>';
+  domString += '<button id="carrot" type="button">Carrot<i class="fa fa-carrot fa-3x"></i></button>';
+  domString += '<button id="cookie" type="button">Cookie<i class="fa fa-cookie fa-3x"></i></button>';
 
   utilities.printToDom(domString, 'eat');
   const carrotBtn = document.getElementById('carrot');

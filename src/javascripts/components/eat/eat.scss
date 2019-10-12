@@ -1,2 +1,9 @@
 @import '../../../styles/colors';
 @import '../../../styles/variables';
+
+#eat {
+  background-color: $mediumblue;
+  position: fixed;
+  top: 0;
+  left: 0;
+}

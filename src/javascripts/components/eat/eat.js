@@ -1,8 +1,10 @@
-// import utilities from '../../helpers/utilities';
+import utilities from '../../helpers/utilities';
 import './eat.scss';
 
 const loadEat = () => {
-  console.error('eat all the things');
+  let domString = '';
+  domString += 'eat all the things';
+  utilities.printToDom(domString, 'eat');
 };
 
 export default { loadEat };

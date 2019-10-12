@@ -1,3 +1,9 @@
-body {
-    background-color: orchid;
-  }
+@import "../javascripts/components/eat/eat.scss";
+@import "../javascripts/components/fight/fight.scss";
+@import "../javascripts/components/play/play.scss";
+@import "../javascripts/components/sleep/sleep.scss";
+
+.quad {
+  height: 50%;
+  width: 50%; 
+}

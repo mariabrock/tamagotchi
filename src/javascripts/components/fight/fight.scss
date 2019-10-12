@@ -1,2 +1,9 @@
 @import '../../../styles/colors';
 @import '../../../styles/variables';
+
+#fight {
+  background-color: $purple;
+  position: fixed;
+  top: 50%;
+  left: 0;
+}

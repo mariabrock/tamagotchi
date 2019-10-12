@@ -3,7 +3,12 @@
 @import "../javascripts/components/play/play.scss";
 @import "../javascripts/components/sleep/sleep.scss";
 
+body {
+  font-family: 'Mansalva', cursive;
+}
+
 .quad {
   height: 50%;
-  width: 50%; 
+  width: 50%;
+  border: 1px solid black; 
 }

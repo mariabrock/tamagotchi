@@ -1,2 +1,9 @@
 @import '../../../styles/colors';
 @import '../../../styles/variables';
+
+#play {
+  background-color: $seagreen;
+  position: fixed;
+  top: 0;
+  left: 50%;
+}

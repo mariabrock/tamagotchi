@@ -4,11 +4,11 @@
 
 
 ## Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![Mainview](https://raw.githubusercontent.com/mariabrock/tamagotchi/master/screenshots/mainview.PNG)
+![Eat](https://raw.githubusercontent.com/mariabrock/tamagotchi/master/screenshots/eatquad.PNG)
+![Fight](https://raw.githubusercontent.com/mariabrock/tamagotchi/master/screenshots/fightquad.PNG)
+![Play](https://raw.githubusercontent.com/mariabrock/tamagotchi/master/screenshots/playquad.PNG)
+![Energy](https://raw.githubusercontent.com/mariabrock/tamagotchi/master/screenshots/energyquad.PNG)
 
 ## How to Run
 * clone down this project 
